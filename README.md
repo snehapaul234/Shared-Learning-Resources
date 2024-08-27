@@ -2,6 +2,9 @@
 
 This smart contract enables institutions to share and manage learning resources on the Ethereum blockchain. The contract allows the addition, viewing, and sharing of resources in a decentralized and transparent manner.
 
+![logo](https://github.com/user-attachments/assets/0d8275a1-028f-45e4-a7aa-ecdbb6bb907b)
+
+
 ## Vision
 
 The Learning Resource Sharing Smart Contract aims to create a decentralized platform where educational institutions can collaborate by sharing resources. This platform ensures that resources are managed transparently, promoting accessibility and trust among participants.
